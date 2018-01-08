@@ -1,0 +1,29 @@
+%YAML:1.0
+Video: "../videos/OV10635_20160518_1547.avi"
+Annotation: "../merged_annos/OV10635_20160518_1547.yml"
+ipm_sample_file: "../annotations/OV10635_20160518_1547_320x240_ipm_samples.json"
+sample_file: "../annotations/OV10635_20160518_1547_samples.json"
+ipm_sample_txt_folder: "txt_OV10635_20160518_1547/"
+img_folder: "OV10635_20160518_1547"
+#frame_ids: "label_frame_ids1.txt"
+startFrame: 0
+frameStep: 5
+endFrame: -1
+focalLength: [ 1697, 1697 ]
+opticalCenter: [ 640, 360 ]
+cameraHeight: 1.400
+imageWidth: 1280.
+imageHeight: 720.
+pitch: 0.045
+yaw: -0.02
+roll: 0
+camera_x: 0
+camera_y: -1.474
+camera_z: 0
+ipmWidth: 320
+ipmHeight: 240.
+ipmLeft: -10.
+ipmRight: 10.
+ipmTop: 90.
+ipmBottom: 6.
+ipmInterpolation: 0
